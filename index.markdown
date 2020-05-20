@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<!-- isso aqui é o index no frontmatter está pontando para a home, no tutorial está apontando para default -->
